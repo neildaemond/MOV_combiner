@@ -1,4 +1,4 @@
-#Using
+# Using
 
 1) put files in the 'combine_queue' folder
 
@@ -10,7 +10,7 @@
     combined/combined_outputfilename.avi
 
 
-## Dependencies
+# Dependencies
 
 I can't remember.. 
 
